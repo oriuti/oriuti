@@ -44,9 +44,3 @@ Análise de **284.807 transações** com comparação entre Regressão Logístic
 ## Desenvolvimento contínuo
 
 Atualmente estou fortalecendo meu portfólio com estudos e aplicações práticas de **SQL, Power BI e Python**, sempre conectando a parte técnica a problemas e decisões de negócio.
-
----
-
-<p align="center">
-  <strong>Aberto a oportunidades em Análise de Dados e Business Intelligence.</strong>
-</p>
