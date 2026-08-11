@@ -1,42 +1,52 @@
-# Gabriel Oriuti Ferraz
+<h1 align="center">Gabriel Oriuti Ferraz</h1>
 
-### Analista de Dados e BI | SQL • Power BI • Python
+<p align="center">
+  <strong>Analista de Dados e BI | SQL • Power BI • Python | Setor Financeiro</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-oriuti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Oriuti-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabriel.oriuti@live.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-4A5568?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
+## Sobre mim
 
 Sou analista com experiência prática em **SQL, PL/SQL, Power BI, automação de processos e validação de dados** em ambiente corporativo do setor financeiro.
 
-Minha formação inclui Análise e Desenvolvimento de Sistemas e pós-graduação em Machine Learning. Gosto de transformar dados brutos em análises claras, indicadores úteis e soluções que apoiem decisões de negócio.
+Atuo transformando dados em consultas, análises, indicadores e dashboards para apoiar áreas internas e decisões de negócio. Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Machine Learning.
 
-## Sobre minha atuação
+## Experiência aplicada
 
-- Consultas em **SQL e PL/SQL** para extração, análise e auditoria de dados
-- Construção de **dashboards e relatórios em Power BI**
+- Extração, análise e auditoria de dados com **SQL e PL/SQL**
+- Construção de **dashboards e relatórios no Power BI**
 - Automação de rotinas de tratamento de dados
-- Validação de dados e acompanhamento de indicadores
-- Experiência com ambientes financeiros, bancos de dados e monitoramento
-
-## Projeto em destaque
-
-### [Detecção de fraudes em transações](https://github.com/oriuti/deteccao-fraude-transacoes)
-
-Pipeline de Machine Learning aplicado a 284.807 transações de cartão, com comparação entre Regressão Logística, Random Forest e XGBoost.
-
-**Destaques:** tratamento de classes desbalanceadas, avaliação por precision/recall/F1, explicabilidade com SHAP e análise orientada ao risco de fraudes não detectadas.
+- Validação de informações e acompanhamento de indicadores
+- Experiência com bancos de dados, monitoramento e ambiente financeiro
 
 ## Competências técnicas
 
-- **Dados e bancos:** SQL, PL/SQL, BigQuery, modelagem de dados e ETL
-- **BI e visualização:** Power BI, Tableau e Excel
-- **Programação:** Python e Pandas
-- **Análise:** exploração, qualidade, validação e comunicação de dados
-- **Ferramentas:** Git, GitHub e AWS
+**Dados e bancos:** SQL, PL/SQL, BigQuery, modelagem de dados e ETL  
+**BI e visualização:** Power BI, Tableau e Excel  
+**Programação:** Python e Pandas  
+**Análise:** exploração, qualidade, validação e comunicação de dados  
+**Ferramentas:** Git, GitHub e AWS
 
-## Próximos projetos do portfólio
+## Projeto em destaque
 
-- Dashboard financeiro end-to-end com Power BI, Power Query e DAX
-- Case de análise de negócio com SQL, CTEs e funções de janela
-- Pipeline de qualidade e tratamento de dados com Python
+### [Detecção de fraudes em transações de cartão](https://github.com/oriuti/deteccao-fraude-transacoes)
 
-## Contato
+Análise de **284.807 transações** com comparação entre Regressão Logística, Random Forest e XGBoost. O projeto demonstra tratamento de classes desbalanceadas, escolha de métricas orientada ao risco, avaliação por precision/recall/F1 e explicabilidade com SHAP.
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-oriuti/)
-- [E-mail](mailto:gabriel.oriuti@live.com)
+## Desenvolvimento contínuo
+
+Atualmente estou fortalecendo meu portfólio com estudos e aplicações práticas de **SQL, Power BI e Python**, sempre conectando a parte técnica a problemas e decisões de negócio.
+
+---
+
+<p align="center">
+  <strong>Aberto a oportunidades em Análise de Dados e Business Intelligence.</strong>
+</p>
