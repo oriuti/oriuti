@@ -38,5 +38,5 @@ Pipeline de Machine Learning aplicado a 284.807 transações de cartão, com com
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-oriuti-ferraz-218789175/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-oriuti/)
 - [E-mail](mailto:gabriel.oriuti@live.com)
