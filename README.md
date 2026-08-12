@@ -59,6 +59,6 @@ Análise financeira end-to-end com dados públicos da CVM, Power BI, DAX e Pytho
 
 Projeto de Machine Learning para identificar transações suspeitas, com preparação dos dados, tratamento de desbalanceamento, comparação entre modelos e explicabilidade com SHAP.
 
-## Desenvolvimento contínuo
+## Foco de atuação
 
-Atualmente estou fortalecendo meu portfólio com projetos completos de **Análise de Dados e Business Intelligence**, documentando o problema, o processo técnico e os insights gerados. Machine Learning aparece como conhecimento complementar.
+Meu foco profissional é **Análise de Dados e Business Intelligence**, aplicando SQL, Power BI e Python para transformar dados em indicadores, dashboards e análises que apoiem decisões de negócio. Minha experiência no setor financeiro e minha formação em Machine Learning complementam essa atuação.
