@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Oriuti Ferraz</h1>
 
 <p align="center">
-  <strong>Analista de Dados e BI | SQL • Power BI • Python | Setor Financeiro</strong>
+  <strong>Engenheiro de Dados e BI | SQL • Power BI • Python | Setor Financeiro</strong>
 </p>
 
 <p align="center">
